@@ -1,0 +1,6 @@
+@YarpSwagger_HostAddress = http://localhost:5207
+
+GET {{YarpSwagger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
